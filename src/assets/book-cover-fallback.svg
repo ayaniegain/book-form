@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="600" viewBox="0 0 400 600" fill="none">
+  <rect width="400" height="600" fill="#E8EEF8"/>
+  <rect x="32" y="32" width="336" height="536" rx="12" fill="#F8FAFC"/>
+  <path d="M32 44C32 37.373 37.373 32 44 32H356C362.627 32 368 37.373 368 44V234H32V44Z" fill="#315A82"/>
+  <circle cx="200" cy="156" r="57" fill="#DCE8F3"/>
+  <path d="M164 142.5C164 139.462 167.327 137.53 169.993 138.983L199.994 155.333L230.007 138.984C232.673 137.532 236 139.464 236 142.502V180C236 183.314 233.314 186 230 186H170C166.686 186 164 183.314 164 180V142.5Z" fill="#315A82"/>
+  <path d="M200 155V187" stroke="#DCE8F3" stroke-width="4"/>
+  <text x="200" y="306" text-anchor="middle" fill="#315A82" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="3">SAMPLE COVER</text>
+  <path d="M104 330H296" stroke="#CBD5E1" stroke-width="2"/>
+  <text x="200" y="382" text-anchor="middle" fill="#475569" font-family="Arial, sans-serif" font-size="15" letter-spacing="2">COVER UNAVAILABLE</text>
+  <path d="M152 500H248" stroke="#315A82" stroke-width="4" stroke-linecap="round"/>
+</svg>
